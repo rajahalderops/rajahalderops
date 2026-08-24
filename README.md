@@ -17,53 +17,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%26+Cloud+DevOps+Engineer;Azure+Cloud+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Infrastructure+as+Code;Generative+AI+%7C+RAG+%7C+MLOps;Building+Secure+%26+Scalable+Platforms" />
+
+  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/DEVOPS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/rajahalderl027-crypto">
-    <img src="https://img.shields.io/github/followers/rajahalderl027-crypto?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://github.com/rajahalderl027-crypto">
-    <img src="https://img.shields.io/github/stars/rajahalderl027-crypto?label=Stars&style=for-the-badge&logo=github"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=rajahalderl027-crypto&style=for-the-badge&color=blueviolet"/>
+  <b>☁️ Cloud Architecture</b>
+  &nbsp; • &nbsp;
+  <b>⚙️ DevOps Automation</b>
+  &nbsp; • &nbsp;
+  <b>🤖 AI Engineering</b>
 </p>
-
----
-
-<!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
-<!-- ===================================================== -->
-
-## 👨‍💻 About Me
-
-```yaml
-name: Raja Halder
-role: AI & Cloud / DevOps Engineer
-
-focus:
-  - Azure Cloud
-  - DevOps & CI/CD
-  - Kubernetes & AKS
-  - Infrastructure as Code
-  - Cloud Security
-  - Generative AI
-  - RAG Applications
-  - MLOps
-
-currently_learning:
-  - AI Engineering
-  - LLM Applications
-  - Platform Engineering
-  - Advanced Kubernetes
-  - Cloud Native Security
-
-engineering_mindset:
-  - Automate
-  - Secure
-  - Scale
-  - Monitor
-  - Continuously Improve
