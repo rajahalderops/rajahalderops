@@ -1,4 +1,3 @@
-![Raja Halder](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
 
 👋 Hi, I'm Raja Halder
 </h1>
