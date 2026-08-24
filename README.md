@@ -1,10 +1,6 @@
+![Raja Halder](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
 
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Raja Halder - AI Cloud DevOps Engineer">
-</p>
-<h1 align="center">
-  👋 Hi, I'm Raja Halder
+👋 Hi, I'm Raja Halder
 </h1>
 
 <p align="center">
