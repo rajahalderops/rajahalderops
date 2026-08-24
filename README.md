@@ -1,13 +1,3 @@
-## Hi there 👋
-
-<!-- ===================== BANNER ===================== -->
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Raja Halder - AI Cloud DevOps Engineer"/>
-</p>
-<!-- ===================================================== -->
-<!--                       INTRO                           -->
-<!-- ===================================================== -->
 
 <h1 align="center">
   👋 Hi, I'm Raja Halder
