@@ -1,6 +1,7 @@
 <img width="1983" height="793" alt="ChatGPT Image Aug 24, 2026, 11_54_20 PM" src="https://github.com/user-attachments/assets/c621c83e-8552-4e0e-9b5f-e5395dfed82a" />
 
-👋 Hi, I'm Raja Halder
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00AEEF;">Raja Halder</span>
 </h1>
 
 <p align="center">
