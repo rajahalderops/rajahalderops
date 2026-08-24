@@ -1,55 +1,69 @@
 ## Hi there 👋
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================================================== -->
+<!--                    PROFILE BANNER                     -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img src="./banner.png" width="100%" alt="Raja Halder - AI Cloud DevOps Engineer"/>
 </p>
 
+<!-- ===================================================== -->
+<!--                       INTRO                           -->
+<!-- ===================================================== -->
+
 <h1 align="center">
   👋 Hi, I'm Raja Halder
 </h1>
 
-<h3 align="center">
-  AI & Cloud / DevOps Engineer
-</h3>
-
 <p align="center">
-  Building scalable cloud platforms, automating infrastructure,
-  and creating AI-powered solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%26+Cloud+DevOps+Engineer;Azure+Cloud+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Infrastructure+as+Code;Generative+AI+%7C+RAG+%7C+MLOps;Building+Secure+%26+Scalable+Platforms" />
 </p>
 
 <p align="center">
-  <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <a href="https://github.com/rajahalderl027-crypto">
+    <img src="https://img.shields.io/github/followers/rajahalderl027-crypto?label=Followers&style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <a href="https://github.com/rajahalderl027-crypto">
+    <img src="https://img.shields.io/github/stars/rajahalderl027-crypto?label=Stars&style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.terraform.io/">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=rajahalderl027-crypto&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
 
-```text
-$ whoami
+## 👨‍💻 About Me
 
-AI & Cloud / DevOps Engineer
+```yaml
+name: Raja Halder
+role: AI & Cloud / DevOps Engineer
 
-> Cloud Architecture
-> DevOps & CI/CD
-> Infrastructure as Code
-> Kubernetes & Containers
-> AI / ML & GenAI
-> Cloud Security
-> Automation
+focus:
+  - Azure Cloud
+  - DevOps & CI/CD
+  - Kubernetes & AKS
+  - Infrastructure as Code
+  - Cloud Security
+  - Generative AI
+  - RAG Applications
+  - MLOps
+
+currently_learning:
+  - AI Engineering
+  - LLM Applications
+  - Platform Engineering
+  - Advanced Kubernetes
+  - Cloud Native Security
+
+engineering_mindset:
+  - Automate
+  - Secure
+  - Scale
+  - Monitor
+  - Continuously Improve
