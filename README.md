@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Raja Halder - AI Cloud DevOps Engineer"/>
+  <img src="./github-banner.png" width="100%" alt="Raja Halder - AI Cloud DevOps Engineer">
 </p>
 
 <!-- ===================================================== -->
