@@ -96,4 +96,4 @@ These commands validate configuration syntax and formatting; they do not prove t
 
 ## Author
 
-MD Amirul Haque · [GitHub profile](https://github.com/haqueamir70-coder) · [LinkedIn](https://www.linkedin.com/in/md-amirul-haque/)
+Raja Halder · [GitHub profile](https://github.com/rajahalderops/rajahalderops) · [LinkedIn](www.linkedin.com/in/raja-halder01)
