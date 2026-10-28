@@ -415,23 +415,13 @@ The goal is to demonstrate how cloud infrastructure can be managed consistently 
 
 ## 🤝 Connect With Me
 
-<div align="center">
+**Raja Halder | Cloud & DevSecOps Engineer**
 
-### Raja Halder
+- 🐙 GitHub: [Explore My Projects](https://github.com/rajahalderops)
+- 💼 LinkedIn: [Connect With Me](https://www.linkedin.com/in/raja-halder01/)
 
-**Cloud & DevSecOps Engineer**
+*Multi-cloud engineering • Terraform • Azure • Google Cloud*
 
-Focused on cloud platform engineering, Terraform automation, cloud security, governance, and multi-cloud infrastructure.
-
-<a href="https://github.com/rajahalderops">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raja-halder01/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-
-<br/><br/>
 
 *Building secure, automated, and maintainable multi-cloud foundations.*
 
