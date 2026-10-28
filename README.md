@@ -94,6 +94,9 @@ These commands validate configuration syntax and formatting; they do not prove t
 - Document Azure authentication and remote state.
 - Add test evidence, operational monitoring, and teardown guidance.
 
-## Author
+## 👨‍💻 Author
 
-Raja Halder · [GitHub profile](https://github.com/rajahalderops/-coder) · [LinkedIn](https://www.linkedin.com/in/raja-halder01/)
+**Raja Halder** | Cloud & DevSecOps Engineer
+
+- 🐙 GitHub: [rajahalderops](https://github.com/rajahalderops)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/raja-halder01/)
