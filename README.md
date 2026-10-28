@@ -1,102 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:22D3EE&height=190&section=header&text=Azure+Enterprise+DevSecOps+Platform&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Enterprise DevSecOps lifecycle banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:0891B2,100:22D3EE&height=220&section=header&text=Azure%20Enterprise%20DevSecOps&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Cloud%20Engineering%20%7C%20Infrastructure%20as%20Code%20%7C%20Cloud%20Security&descSize=14&descAlignY=58" width="100%" alt="Azure Enterprise DevSecOps Platform banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&pause=1200&color=00C7FF&center=true&vCenter=true&width=900&height=40&lines=Secure+Cloud+Foundation+%E2%80%A2+Governance+%E2%80%A2+Automation" alt="Animated project tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1300&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Designing+Secure+Cloud+Foundations;Automating+Infrastructure+with+Terraform;Building+Security-First+CI%2FCD+Pipelines;Engineering+Reliable+Cloud+Platforms" alt="Animated engineering introduction"/>
 
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-MD%20Amirul-181717?style=for-the-badge&logo=github)](https://github.com/haqueamir70-coder)
+<br/>
+
+<a href="https://github.com/rajahalderops">
+  <img src="https://img.shields.io/badge/GitHub-Raja%20Halder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://azure.microsoft.com/">
+  <img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+</a>
+<a href="https://developer.hashicorp.com/terraform">
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</a>
+<a href="https://www.linkedin.com/in/raja-halder01/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**CLOUD ENGINEERING • DEVSECOPS • AUTOMATION • GOVERNANCE • SECURITY**
+
+*Engineering secure, scalable, and maintainable cloud infrastructure.*
 
 </div>
 
-> **Portfolio project:** implementation status and limitations are documented below. The diagram describes the intended workflow/architecture and is not proof of a successful production deployment.
+---
 
-## 🗺️ Architecture at a Glance
+## 👨‍💻 Professional Overview
 
-```mermaid
-flowchart TD
-  A[Developer] --> B[Pull Request Checks]
-  B --> C[IaC Validation and Security]
-  C --> D[Reviewed Plan]
-  D --> E[Protected Environment]
-  E --> F[Azure Resources]
-  F --> G[Logs, Alerts, and Review]
-```
+I am a Cloud and DevSecOps Engineer focused on infrastructure automation, cloud platform engineering, security integration, and reliable delivery practices.
+
+This repository presents an enterprise-oriented approach to building and managing Azure infrastructure using Terraform and DevSecOps principles.
+
+My engineering focus includes:
+
+- **Infrastructure as Code:** Reusable Terraform modules, environment separation, and controlled infrastructure changes.
+- **Cloud Platform Engineering:** Azure resource organization, networking, identity, and governance.
+- **DevSecOps Automation:** Integrating infrastructure validation, linting, and security checks into CI/CD workflows.
+- **Cloud Security:** Least-privilege access, secure authentication, policy enforcement, and secrets management.
+- **Operational Reliability:** Infrastructure drift detection, monitoring, troubleshooting, and controlled recovery.
+
+> **Engineering principle:** Security should be built into the infrastructure lifecycle—not added after deployment.
 
 ---
 
-# Azure Enterprise DevSecOps Platform
+## 🏗️ Enterprise Architecture
 
-A portfolio project exploring enterprise-style Azure infrastructure organization with Terraform and security-conscious DevOps practices.
+The following diagram illustrates the intended architecture and delivery workflow for this project.
 
-## Repository status
-
-The current repository includes an `infrastructure/` directory. Review the files under that directory to confirm the resources, modules, and automation that are implemented. This README separates the project goals from verified implementation details.
-
-## Objectives
-
-- Structure Terraform code for maintainability and reuse.
-- Define secure network and identity boundaries.
-- Add consistent formatting, validation, linting, and infrastructure security scanning.
-- Use reviewed plans and protected approvals for infrastructure changes.
-- Document monitoring, operational considerations, and safe cleanup.
-
-## Suggested workflow
-
-```text
-Pull request
-   |
-   v
-Terraform fmt + validate
-   |
-   v
-Lint + security scan
-   |
-   v
-Plan and peer review
-   |
-   v
-Protected approval
-   |
-   v
-Apply to target environment
-```
-
-This is the intended workflow. Confirm the actual workflow files and CI results before representing these steps as active automation.
-
-## Security baseline
-
-- Use short-lived Azure authentication such as OIDC federation where supported.
-- Apply least-privilege access to deployment identities.
-- Protect Terraform state in a remote backend with locking and restricted access.
-- Never commit credentials, state files, or sensitive plan artifacts.
-- Pin and review third-party Actions and provider versions.
-- Use environment approvals for production changes.
-- Add Azure diagnostics, alerts, policy checks, and documented recovery procedures.
-
-## Validation
-
-Run Terraform commands from the relevant root module after reviewing its backend and provider configuration:
-
-```bash
-terraform fmt -check -recursive
-terraform init -backend=false
-terraform validate
-```
-
-These commands validate configuration syntax and formatting; they do not prove that the infrastructure is production-ready or that a deployment will succeed in a target subscription.
-
-## Roadmap
-
-- Document the architecture and each module.
-- Add CI quality gates and security scanning.
-- Document Azure authentication and remote state.
-- Add test evidence, operational monitoring, and teardown guidance.
-
-## 👨‍💻 Author
-
-**Raja Halder** | Cloud & DevSecOps Engineer
-
-- 🐙 GitHub: [rajahalderops](https://github.com/rajahalderops)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/raja-halder01/)
+```mermaid
+flowchart TB
+    DEV["Developer"]
+    GIT["Git Repository"]
+    PR["Pull Request and Code
