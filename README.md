@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:0891B2,100:22D3EE&height=220&section=header&text=Azure%20Enterprise%20DevSecOps&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Cloud%20Engineering%20%7C%20Infrastructure%20as%20Code%20%7C%20Cloud%20Security&descSize=14&descAlignY=58" width="100%" alt="Azure Enterprise DevSecOps Platform banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:0891B2,100:22D3EE&height=220&section=header&text=Azure & GCP%20Enterprise%20DevSecOps&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Cloud%20Engineering%20%7C%20Infrastructure%20as%20Code%20%7C%20Cloud%20Security&descSize=14&descAlignY=58" width="100%" alt="Azure Enterprise DevSecOps Platform banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1300&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Designing+Secure+Cloud+Foundations;Automating+Infrastructure+with+Terraform;Building+Security-First+CI%2FCD+Pipelines;Engineering+Reliable+Cloud+Platforms" alt="Animated engineering introduction"/>
 
